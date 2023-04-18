@@ -7,3 +7,5 @@ node_modules
 .env
 dist
 .DS_Store
+.storybook/auto-imports.d.ts
+.storybook/components.d.ts
